@@ -8,6 +8,6 @@ require (
 	go.opentelemetry.io/otel/exporters/jaeger v1.14.0
 	go.opentelemetry.io/otel/exporters/stdout/stdouttrace v1.15.0
 	go.opentelemetry.io/otel/exporters/zipkin v1.14.0
-	go.opentelemetry.io/otel/sdk v1.15.0
+	go.opentelemetry.io/otel/sdk v1.15.1
 	go.opentelemetry.io/otel/trace v1.15.1
 )
